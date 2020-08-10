@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Aneesh Ramakrishna Pillai, 12+ Years expereicned Full stack web developer
 
-You can use the [editor on GitHub](https://github.com/aneeshrp/aneeshrp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Greetings From India.  I am full stack web developer with more than 12 years of experience.  With equal knowledge in development as well as integrating process like CI and CD I clain my self to be a better resource for any full stack need.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skillset
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Following are my priority list of skillsets
 
 ```markdown
-Syntax highlighted code block
+- PHP
+- HTML
+- jQuery/Javascript
+- MySQL
+- MongoDB
+- Clickhouse
+- React
+- ReactNaive
+- NodeJs
+- BashScripts
+- Gitlab/GitHub with CI and CD
+- Docker
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aneeshrp/aneeshrp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+aneeshrp@gmail.com
